@@ -1,0 +1,6 @@
+{
+  "name": "RideAdmin - Ride-Hail & Fare Bidding Admin Panel",
+  "description": "Executive command center for ride-hailing and dynamic fare bidding operations, featuring live GPS fleet tracking, driver KYC verification, surge and bidding matrix engine, safety SOS center, and revenue analytics.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
